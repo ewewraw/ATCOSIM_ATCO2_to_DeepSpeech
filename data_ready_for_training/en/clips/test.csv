@@ -1,0 +1,994 @@
+wav_filename,wav_filesize,transcript
+gf1_01_127.wav,81836,roger turn left heading two two zero
+gf1_01_005.wav,106028,lufthansa four seven two three resume own navigation to willisau
+gf1_01_043.wav,117548,berlin five three three eight contact reims one three four decimal four good bye
+gf1_01_218.wav,125612,lufthansa four six five two geneva one two eight one five good bye
+gf1_01_119.wav,150956,cross air two six nine zero climb to flight level two nine zero
+gf1_01_003.wav,184364,cross air five one two bonjour identified cleared kines st prex willisau flight level three zero zero
+gf1_01_065.wav,107180,sabena nine seven zero climb to flight level three four zero
+gf1_01_167.wav,133676,alitalia two six two contact reims on one three two two seven good bye
+gf1_01_144.wav,106028,cross air two six nine zero climb to flight level three zero zero
+gf1_01_159.wav,116396,roger contact ah
+gf1_01_221.wav,106028,sabena nine five nine marseille one two five eight five good bye
+gf1_01_224.wav,100268,luxair two six six three climb to flight level three five zero
+gf1_01_067.wav,114092,belgian airforce ah three three four set course direct to arbos
+sm2_06_085.wav,26540,thank you
+gf1_01_183.wav,193580,november one four five whiskey bonjour squawk five seven seven three climb to flight level ah three four zero
+gf1_01_085.wav,195884,lufthansa eight two six eight bonjour identified passeiry tour du pin flight level three three zero
+sm2_06_056.wav,20780,affirm
+sm2_06_191.wav,101420,alitalia three six nine report your rate of descent
+sm2_06_028.wav,106028,good afternoon golf bravo victor juliett india identified
+sm2_06_165.wav,84140,lufthansa four two one nine is identified
+sm2_06_210.wav,131372,alitalia three six nine contact zurich one three four decimal six
+sm2_06_087.wav,160172,roger alitalia two nine one and report your heading
+sm2_06_003.wav,137132,lufthansa three five six six is identified climb flight level two nine zero
+sm2_06_094.wav,206252,tarom three seven four turn further left heading zero nine five
+sm2_06_164.wav,82988,scandinavian six eight seven is identified
+sm2_06_033.wav,87596,saudia one zero six is identified
+sm2_06_200.wav,258092,alitalia one three five contact i talk alitalia one three five contact zurich one three four decimal six
+sm2_06_048.wav,123308,k l m three four six turn left to november tango mike
+sm2_06_148.wav,147500,egyptair eight eight four contact rhein radar one three two decimal four
+sm2_06_117.wav,164780,britannia three zero six alfa contact rhein radar one three two decimal four
+sm2_06_038.wav,115244,speedbird one two nine contact rhein radar one three two decimal four
+sm2_06_182.wav,149804,algerie two zero seven three proceed own navigation to trasadingen
+sm2_06_122.wav,85292,delta mike echo fly heading one nine zero
+sm2_06_107.wav,125612,lufthansa five five zero four contact zurich one three four decimal six
+sm2_01_029.wav,36908,affirm
+sm2_06_115.wav,164780,and alitalia two nine one maintain your speed mach point seven six or more
+sm2_01_111.wav,133676,roger delta mike echo maintain heading one seven one
+sm2_01_195.wav,172844,sunwing five two one four contact zurich one three three decimal four
+sm2_01_202.wav,222380,thank you break alitalia four six nine can you reduce your speed by ten knots
+sm2_01_162.wav,106028,nato ten same freq rhein radar one two seven decimal three seven
+sm2_01_108.wav,154412,ah cross air eight five eight disregard gotil fly heading three one zero
+sm2_01_057.wav,79532,swissair eight zero six report your rate of climb
+sm2_01_106.wav,112940,cross air eight five eight is identified proceed to gotil
+sm2_01_017.wav,64556,delta echo bravo report your heading
+sm2_01_088.wav,288044,lufthansa three five five zero continue climb to flight level two nine zero climb at one thousand two hundred feet per minute or more
+sm2_01_060.wav,129068,air berlin five two five five contact rhein radar one twenty seven thirty seven
+sm2_01_071.wav,122156,lufthansa three five six six contact zurich one three four decimal six
+sm2_01_223.wav,39212,thank you very much
+sm2_01_180.wav,137132,scandinavian six eight seven is identified
+sm2_01_209.wav,163628,tunair four eight zero two that is rhein radar one two seven decimal three seven
+sm2_01_043.wav,121004,lufthansa four four zero eight contact zurich one three four decimal six
+sm2_01_089.wav,124460,saudia one zero six contact rhein radar one two three decimal four
+sm2_01_194.wav,68012,is alitalia two nine one still with me
+sm2_01_134.wav,140588,malaysian ah four is identified
+sm2_01_131.wav,180908,ah lufthansa five five zero four proceed now own navigation to trasadingen tango romeo alfa
+sm2_02_013.wav,129068,lufthansa three six zero four is identified climb to flight level two nine zero
+sm2_02_076.wav,118700,sabena eight three six contact rhein radar one two seven decimal three seven
+sm2_02_021.wav,119852,swissair nine three six zero likewise rhein one two seven decimal three seven
+sm2_02_141.wav,124460,gulf air zero zero five contact rhein radar one two seven decimal three seven
+sm2_02_058.wav,106028,k l m three four six report your requested flight level
+sm2_02_133.wav,87596,tunair four eight zero two is identified good morning
+sm2_02_017.wav,123308,airals one zero eight eight contact rhein one two seven decimal three seven
+sm2_02_054.wav,131372,speedbird one two nine contact rhein one three two decimal four
+sm2_02_069.wav,122156,affirm and ah climb at fifteen hundred feet per minute or more
+sm2_02_110.wav,148652,adria one six two seven contact rhein radar one three two decimal four
+sm2_02_060.wav,156716,alitalia six four seven four contact rhein radar one two seven decimal three seven
+sm2_02_033.wav,142892,ah lufthansa three six zero four expect higher with zurich in four to five minutes
+sm2_05_002.wav,123308,airals one zero eight eight contact rhein one two seven decimal three seven
+sm2_02_135.wav,197036,ah nato one zero turn left heading three three zero
+sm2_05_133.wav,73772,alitalia three six nine is identified
+sm2_05_127.wav,76076,sunwing five two one two is identified
+sm2_05_077.wav,134828,merair six nine five two is identified climb to flight level two five zero
+sm2_05_139.wav,118700,britannia three zero six alfa contact rhein radar one three two decimal four
+sm2_05_065.wav,112940,lufthansa four two zero nine turn left to dinkelsbuhl
+sm2_05_147.wav,93356,sunwing five two one two turn right heading one nine zero
+sm2_05_125.wav,106028,alitalia one three five is identified
+sm2_05_137.wav,110636,malaysian four contact rhein one two seven decimal three seven
+sm2_05_121.wav,140588,alitalia one five zero contact rhein radar one two seven decimal three seven
+sm2_05_006.wav,183212,k l m three four six identified
+sm2_05_115.wav,235052,merair six nine four four is identified proceed to trasadingen climb to flight level two nine zero
+sm2_05_119.wav,114092,delta mike echo climb flight level three four zero
+sm2_05_098.wav,93356,malaysian four is identified
+sm2_05_079.wav,100268,bee med one contact rhein radar one three two decimal four
+sm2_05_195.wav,135980,aero lloyd five six two zurich one three four decimal six
+sm2_05_081.wav,66860,tarom three seven four rhein radar
+sm2_05_028.wav,184364,lufthansa four two zero seven turn now left direct to dinkelsbuhl delta kilo bravo
+sm2_03_120.wav,32300,affirm
+sm2_05_111.wav,194732,belgian airforce one four four contact rhein radar one two seven decimal three seven
+sm2_03_070.wav,131372,k l m three four six rhein radar one two seven decimal three seven
+sm2_03_121.wav,117548,merair six nine five two climb now to flight level three one zero
+sm2_03_139.wav,117548,sunwing five two one two in radar contact
+sm2_03_033.wav,163628,swissair nine three six zero contact rhein radar one two seven decimal three seven
+sm2_03_163.wav,144044,alitalia three six nine descend to flight level three one zero
+sm2_03_086.wav,182060,delta india mike mike echo turn left heading one seven five
+sm2_03_023.wav,195884,swissair eight zero six contact rhein radar one two seven decimal three seven
+sm2_03_122.wav,156716,negative six nine five two climb to flight level three one zero
+sm2_03_012.wav,157868,swissair nine three six zero climb to flight level three one zero initially
+sm2_03_082.wav,27692,roger
+sm2_03_133.wav,116396,tunair four eight zero two is identified you're cleared direct to fox fox mike
+sm2_03_010.wav,282284,hello swissair nine three six zero identified i'll call you back for higher level in four minutes when clear of crossing traffic
+sm2_03_127.wav,70316,delta mike echo proceed to trasadingen
+sm2_03_048.wav,252332,k l m three four six turn right heading three five five this is an order to in german airspace
+sm2_03_128.wav,176300,delta charlie india november alfa is identified climb initially to flight level two seven zero
+sm2_03_125.wav,99116,aerovic one zero six one proceed to trasadingen
+sm2_03_150.wav,141740,alitalia two nine one likewise rhein no zurich one three four decimal six
+sm2_09_182.wav,82988,aero lloyd five three three is identified
+sm2_03_018.wav,146348,buongiorno alitalia six four seven four identified
+sm2_09_187.wav,112940,okay alitalia three two four reduce to decimal seven seven
+sm2_03_022.wav,235052,lufthansa three five six six climb flight level three one zero
+sm2_09_166.wav,214316,alitalia four one six stand by portugalia five four three climb to flight level three one zero
+sm2_09_052.wav,121004,lufthansa four seven zero three identified
+sm2_09_186.wav,78380,alitalia three two four report your mach number
+sm2_09_149.wav,126764,air malta four five zero proceed to zulu uniform echo
+sm2_09_040.wav,134828,condor nine seven two contact zurich one three three decimal four
+sm2_09_010.wav,70316,condor nine seven two is identified
+sm2_09_090.wav,112940,hapag lloyd say again the callsign
+sm2_09_205.wav,215468,lufthansa five five zero four yes i'll call you back in a minute for identification
+sm2_09_190.wav,49580,affirm final level
+sm2_09_088.wav,161324,speedbird nine four november is your callsign
+sm2_09_060.wav,148652,hapag lloyd one two four is identified
+sm2_09_124.wav,208556,alitalia one five eight contact reims one three four four
+sm2_09_200.wav,66860,well simply kill that aircraft
+sm2_09_063.wav,82988,bama one five is identified
+sm2_09_018.wav,116396,at level three nine zero confirm
+sm2_09_116.wav,104876,lufthansa three five six six climb to flight level three one zero
+sm2_09_071.wav,32300,yeah identified
+sm2_04_191.wav,114092,alitalia one three five contact zurich one three four decimal six
+sm2_04_072.wav,33452,affirm
+sm2_04_165.wav,99116,alitalia four six nine is identified report your mach number
+sm2_04_101.wav,216620,merair six nine five two climb now to flight level two nine zero
+sm2_04_068.wav,156716,lufthansa four seven zero zero contact zurich one three four decimal six
+sm2_04_047.wav,147500,saudia one zero six is in radar contact good afternoon
+sm2_04_163.wav,244268,aero lloyd five six two proceed to trasadingen climb to flight level two f five zero
+sm2_04_187.wav,180908,scandinavian six eight seven increase your speed to decimal seven eight or more
+sm2_04_086.wav,103724,delta india mike mike echo report your heading
+sm2_04_184.wav,131372,scandinavian six eight seven turn right one five degrees
+sm2_04_026.wav,288044,ah k l m three four six i just realized this is not sufficient turn left heading three four five please
+sm2_04_118.wav,111788,cross air eight five eight contact rhein one two seven decimal three seven
+sm2_04_006.wav,115244,hapag lloyd one one two are you able to give me a wind reading
+sm2_04_040.wav,101420,lufthansa four two zero seven is identified
+sm2_04_167.wav,95660,roger decrease to decimal seven eight or less
+sm2_04_179.wav,213164,hotel oscar charlie hochwald afterwards sierra papa romeo and then flight planned route
+sm2_04_149.wav,155564,egyptair eight eight four likewise rhein radar one three two decimal four
+sm2_04_138.wav,74924,sunwing five two one four is identified
+sm2_04_008.wav,46124,okay thank you
+sm2_04_010.wav,111788,swissair eight zero six is identified
+sm2_08_144.wav,100268,gulf air zero zero five is identified
+sm2_04_024.wav,160172,roger k l m three four six maintain that heading three five five
+sm2_08_158.wav,103724,alitalia one three five is identified good afternoon
+sm2_08_139.wav,114092,lufthansa five two one seven is identified
+sm2_08_118.wav,114092,cross air eight disregard
+sm2_08_030.wav,200492,lufthansa three five six six climb to flight level three one zero
+sm2_08_104.wav,100268,belgian airforce four four is identified
+sm2_08_109.wav,24236,roger
+sm2_08_152.wav,215468,delta cheena is identified fly heading one seven zero climb flight level two seven zero
+sm2_08_072.wav,220076,lufthansa three five five zero is identified proceed direct to trasadingen climb flight level two five zero
+sm2_08_042.wav,85292,speedbird one two nine is identified
+sm2_08_033.wav,164780,okay k l m three four six fly heading three five zero
+sm2_08_123.wav,92204,britannia three zero six alfa is identified
+sm2_08_126.wav,127916,aerovic one zero six one report your mach number
+sm2_08_107.wav,153260,hotel tango romeo contact rhein radar one two seven decimal three seven
+sm2_08_121.wav,23084,roger
+sm2_08_181.wav,156716,delta mike echo turn now right to sierra romeo november
+sm2_08_130.wav,173996,adria one six two seven contact rhein radar one three two decimal four
+sm2_08_099.wav,103724,bee med one i say again climb to flight level three four zero
+sm2_08_179.wav,208556,air algerie two zero seven three is identified turn right to trasadingen climb flight level two seven zero
+sm2_08_019.wav,149804,hapag lloyd one one two is identified you're cleared direct to frankfurt
+sm2_07_150.wav,56492,ah what is your heading
+sm2_07_158.wav,217772,alitalia one three five is identified break lufthansa five two one seven turn left to dinkelsbuhl delta kilo bravo
+sm2_07_227.wav,70316,delta echo charlie turn right ten degrees
+sm2_07_210.wav,101420,delta echo charlie descend to flight level three seven zero
+sm2_07_078.wav,114092,bee med one is identified good morning
+sm2_07_160.wav,101420,sunwing five two one four identified
+sm2_07_234.wav,84140,affirm and contact rhein one three two decimal four
+sm2_07_101.wav,110636,cross air eight five eight is identified
+sm2_07_028.wav,127916,and swissair eight zero six contact rhein radar one two seven decimal three seven
+sm2_07_216.wav,78380,delta cheena proceed to trasadingen
+sm2_07_186.wav,108332,roger can you increase to decimal seven seven
+sm2_07_149.wav,94508,britannia three zero six alfa are you on frequency
+sm2_07_191.wav,65708,lufthansa five two one seven still up
+sm2_07_156.wav,170540,delta cheena is identified fly heading one seven zero climb flight level two nine zero
+sm2_07_013.wav,111788,sobelair two five two one contact rhein radar one three two decimal four
+sm2_07_120.wav,61100,lufthansa four two zero nine rhein
+sm2_07_162.wav,109484,aerovic one zero six one turn right to hotel oscar charlie
+sm2_07_140.wav,72620,gulf air five is identified
+sm2_07_052.wav,121004,britannia three two seven alfa turn right to kempten kilo papa tango
+sm2_07_027.wav,127916,swissair eight zero six proceed now own navigation to nattenheim
+sm2_07_224.wav,141740,alitalia three six nine likewise zurich one three four decimal six
+gm1_02_109.wav,112940,alitalia two six two squawk five seven three six
+sm2_07_066.wav,116396,saudia one zero six good afternoon identified
+sm2_07_145.wav,125612,tarom three seven four proceed own navigation to tango golf oscar
+gm1_02_028.wav,109484,bonjour saudia one five five squawk five seven four three
+gm1_02_085.wav,134828,period one seven one bonjour maintain three three zero passeiry bilsa
+gm1_02_011.wav,122156,speedbird five six three bonjour squawk five seven two one
+gm1_02_119.wav,149804,aero lloyd five six zero contact marseille one two five eight five good bye
+gm1_02_012.wav,109484,alitalia three hundred climb to flight level three two zero
+gm1_02_131.wav,114092,bonjour three squawk five seven four six
+gm1_02_133.wav,148652,hamburg air two five four six marseille one two five eight five good bye
+gm1_02_030.wav,160172,sabena nine three seven two calling
+gm1_02_010.wav,191276,sabena nine seven zero bonjour cleared st prex arbos epinal flight level two eight zero stand by for further climb
+gm1_02_150.wav,317996,bonjour sabena nine five nine cleared direct la tour du pin flight level three one zero
+gm1_02_144.wav,116396,six five three contact marseille one two five eight five good bye
+gm1_02_039.wav,153260,lufthansa four seven three one contact zurich on one three four decimal six good bye
+gm1_02_061.wav,144044,roger contact us on ah one two eight one five good bye
+gm1_02_141.wav,138284,sierra six seven five two contact marseille one two five eight five good bye
+gm1_01_065.wav,31148,affirm
+gm1_02_060.wav,169388,lufthansa eight two six eight flight level three five zero confirm
+gm1_02_050.wav,185516,swissair six seven five two bonjour continue climb to flight level two nine zero
+gm1_01_035.wav,208556,alitalia two one eight contact reims on ah one three two decimal two seven good bye
+gm1_01_166.wav,179756,alitalia two four two contact reims on one three four decimal four correction one three two two seven
+gm1_01_040.wav,130220,shamrock ah six seven seven bonjour stand by
+gm1_01_163.wav,110636,aero lloyd five six seven turn left heading three five zero
+gm1_01_085.wav,34604,affirm
+gm1_01_087.wav,110636,ah sorry my mistake so proceed on flight planned routing
+gm1_01_148.wav,215468,portugalia five four three bonjour maintain flight level three one zero via st prex la tour du pin
+gm1_01_058.wav,100268,condor triple six do you request higher level
+gm1_01_139.wav,99116,swissair six eight seven descend to flight level two two zero
+gm1_01_181.wav,108332,alitalia three seven nine rate of descent two thousand feet per minute
+gm1_01_074.wav,153260,britannia one zero eight bravo contact reims on one three two decimal two seven good bye
+gm1_01_157.wav,160172,aero lloyd five three three report radar heading to two zurich on one three four six good bye
+gm1_01_017.wav,80684,olympic two zero two turn right to torino
+gm1_01_031.wav,173996,britannia one zero eight bravo identified cleared st prex rolampont flight level three zero zero
+gm1_01_061.wav,135980,t w a eight hundred contact milano one two five eight five good bye
+gm1_01_115.wav,101420,alitalia three two three turn right to torino
+gm1_01_051.wav,124460,topswiss four five five two continue climb to flight level three seven zero
+gm1_01_089.wav,108332,speedbird five six nine climb to flight level three six zero
+gm1_01_026.wav,126764,alitalia one one zero can you accept flight level three two zero for your cruise
+zf2_05_008.wav,177452,airfrans one five zero nine good afternoon squawk two seven seven six climb flight level three four zero
+zf2_05_022.wav,96812,lufthansa three five zero five your heading now
+zf2_05_133.wav,157868,alitalia four one six continue inbound ageri zurich east nelli
+zf2_05_217.wav,154412,israeli four four two turn right heading of one nine zero descend to flight level two seven zero
+zf2_05_233.wav,271916,sabena eight zero six ah resume own navig continue present heading and contact radar on a frequency one three three decimal four state your heading to radar bye bye
+zf2_05_190.wav,99116,speedbird two eight three nine roger squawk five seven four four
+zf2_05_109.wav,87596,tunair four eight zero two right turn ten degrees
+zf2_05_236.wav,183212,airfrans two four two six good afternoon maintain three three zero trasadingen zurich east fusse radar contact
+zf2_05_159.wav,65708,lufthansa four six six five
+zf2_05_058.wav,198188,good afternoon condor six zero seven radar contact maintain flight level three four zero direct trasadingen tango
+zf2_05_254.wav,51884,thank you very much indeed
+zf2_05_054.wav,238508,reach six zero one five three ah roger non r v s m maintain flight level three zero zero and continue heading
+zf2_05_097.wav,164780,french air force four four one zero good afternoon radar contact descend flight level three two zero
+zf2_05_150.wav,108332,sata nine six zero one descend flight level three three zero
+zf2_05_001.wav,126764,alitalia one five eight good afternoon squawk five seven two zero
+zf2_05_215.wav,146348,delta mike echo further climb clearance contact radar one three three point four bye bye
+zf2_05_173.wav,116396,delta mike india roger ah what is your destination
+zf2_05_225.wav,91052,sabena eight zero six climb flight level three six zero
+zf2_05_069.wav,180908,lufthansa three six zero four climb flight level three three zero rate at least two thousand until three one zero climbing
+zf2_05_044.wav,179756,l t u one six zero two good afternoon radar contact climb flight level two nine zero
+zf2_05_243.wav,115244,tunair four six nine four good afternoon squawk two seven five six
+zf2_05_128.wav,138284,air malta one zero four for climb clearance contact radar one three three point four bye bye
+zf2_05_048.wav,201644,speedway three three five two roger good afternoon proceed inbound zurich east fusse descend flight level two nine zero
+zf2_05_059.wav,137132,reach six zero one five three resume own navigation direct tango
+zf2_02_169.wav,160172,sabena eight two six alfa contact rhein control on one two zero decimal nine two bye bye
+zf2_02_001.wav,111788,swissair six five two zero proceed direct trasadingen
+zf2_02_003.wav,129068,austrian two two contact milan one three four decimal five two bye
+zf2_02_016.wav,228140,good morning lufthansa four three five six ah radar contact anyhow squawk two seven one two and climb flight level three two zero
+zf2_02_107.wav,107180,swissair four eight eight turn left inbound trasadingen tango
+zf2_02_035.wav,240812,air berlin five zero eight one ah good morning ah radar contact maintain for the time three three zero trasadingen st prex
+zf2_02_081.wav,138284,gulf air zero three two amendment to a clearance a left turn heading of zero eight five
+zf2_02_039.wav,115244,hapag lloyd six five three climb flight level three three zero
+zf2_02_122.wav,140588,speedway three four six nine contact milan one three four five two bye bye
+zf2_02_145.wav,112940,lufthansa four six five two climb flight level three one zero
+zf2_02_120.wav,175148,l t u seven seven five six good morning radar contact continue climb flight level two nine zero
+zf2_02_159.wav,124460,lufthansa eight two two one descend flight level two nine zero
+zf2_02_205.wav,112940,turkish nine two five contact reims one three four four bye
+zf2_02_154.wav,116396,aero lloyd five nine zero set course direct saronno
+zf2_02_180.wav,171692,roger good morning alitalia four eight five radar contact continue descent flight level two five zero
+zf2_02_037.wav,139436,hapag lloyd six five three good morning radar contact i'll call you back with higher
+zf2_02_147.wav,141740,airfrans three five six contact reims on one three four decimal four bye bye
+zf2_04_133.wav,93356,lufthansa four three nine three descend flight level two eight zero
+zf2_04_185.wav,110636,united six nine contact milan one three four five two bye
+zf2_04_149.wav,110636,alitalia one one seven contact milan one three four five two bye
+zf2_04_148.wav,145196,swissair four eight eight contact rhein control on one three two decimal four bye
+zf2_04_182.wav,127916,shamrock four eight two two thanks for cooperation milan one three four five two bye
+zf2_04_174.wav,110636,jetaviation seven zero one radar contact call you back with descent
+zf2_04_057.wav,150956,lufthansa three five seven seven radar contact route ageri zurich east nelli
+zf2_04_190.wav,95660,alitalia four eight five descend flight level two five zero
+zf2_04_066.wav,95660,hapag lloyd one seven one right turn ten degrees
+zf2_04_154.wav,125612,u s air one four own navigation fusse milan one three four five two bye
+zf2_04_115.wav,103724,airfrans three five six contact reims one three four four bye
+zf2_04_201.wav,112940,lufthansa eight two two one descend flight level two nine zero
+zf2_04_001.wav,101420,israeli six eight six heading zero one zero
+zf2_04_195.wav,124460,europa three six one good afternoon radar contact trasadingen tango
+zf2_04_129.wav,110636,alitalia two nine two climb flight level three two zero
+zf2_04_132.wav,27692,lufthansa
+zf2_04_158.wav,140588,netherlands air force four one four resume own navigation direct ah canne
+zf2_04_004.wav,223532,airfrans three two six one radar contact stop your climb flight level two nine zero ra route via trasadingen st prex
+zf2_04_091.wav,160172,lufthansa four three nine three good morning radar contact proceed via trasadingen zurich east fusse
+zf2_04_196.wav,157868,lufthansa four six five two geneva one ah two eight one five bye
+zf2_04_024.wav,161324,that's correct lufthansa eight two six eight further climb contact radar on ah one three three point four bye
+zf2_04_177.wav,178604,alitalia four eight seven good morning radar contact maintain flight level three one zero trasadingen canne
+zf2_03_188.wav,185516,air malta one zero zero good morning maintain flight level three four zero and squawk five seven one seven
+zf2_03_103.wav,184364,airfrans one five five four contact milan one three four decimal five two bye bye
+zf2_03_206.wav,123308,air malta one zero zero
+zf2_03_247.wav,82988,alitalia four eight five own navigation canne
+zf2_03_110.wav,108332,speedway three four six nine descend flight level two nine zero
+zf2_03_230.wav,147500,lufthansa four six five two contact geneva one three three one five bye bye
+zf2_03_178.wav,123308,sabena eight two six alfa fly heading of three six zero
+zf2_03_151.wav,164780,lufthansa four three nine three own navigation fusse contact milan one three four five two bye bye
+zf2_03_082.wav,213164,good morning swissair six five five two radar contact climb flight level two nine zero proceed direct zurich east fusse
+zf2_03_164.wav,176300,europa three eight one could you give me position ah from willisau please
+zf2_03_221.wav,108332,air malta one zero zero confirm heading of two seven zero
+zf2_03_067.wav,135980,transwede three five seven one contact reims one three four decimal four bye bye
+zf2_03_136.wav,104876,airfrans three five six climb flight level three two zero
+zf2_03_022.wav,129068,air malta zero zero four radar contact direct karlsruhe
+zf2_03_096.wav,145196,airfrans three five six ah roger confirm squawking ah three one three three
+zf2_03_190.wav,114092,lufthansa eight two two one descend flight level two nine zero
+zf2_03_025.wav,167084,scandinavian six eight six further contact rhein control on one three two decimal four bye bye
+zf2_03_256.wav,141740,speedbird seven seven whiskey whiskey radar contact continue flight planned route
+zf2_03_246.wav,92204,alitalia four zero one resume own navigation canne
+zf2_03_225.wav,124460,jetaviation seven oh one sorry squawk two seven three two
+zf2_03_238.wav,69164,roger your rate at least two thousand please
+zf2_03_002.wav,187820,lufthansa five two nine four good morning radar contact ah recleared flight level three three zero
+zf2_03_032.wav,126764,sabena seven eight one six radar contact direct karlsruhe
+zf2_03_202.wav,160172,sabena eight two six alfa contact rhein control on one two zero decimal nine two bye bye
+zf2_03_133.wav,131372,sabena eight two six alfa good morning squawk seven five three one
+zf2_06_035.wav,140588,balkan four three one contact reims on one three four four bye
+zf2_06_209.wav,100268,delta fox sierra geneva one three three one five bye
+zf2_06_252.wav,160172,delta november alfa good afternoon radar contact maintain two nine zero call you back
+zf2_06_148.wav,107180,sata nine six zero one climb flight level three five zero
+zf2_06_185.wav,156716,alitalia four zero four contact rhein control on one three two decimal four bye bye
+zf2_06_043.wav,157868,airfrans six eight nine now radar contact proceed via albix hochwald morok
+zf2_06_116.wav,138284,lufthansa three six zero four contact milan one three four five two bye
+zf2_06_145.wav,231596,sata nine six zero one proceed via heading of ah two five five
+zf2_06_125.wav,102572,airfrans six seven zero good afternoon i'll call you back with lower
+zf2_06_206.wav,97964,airfrans six eight zero descend flight level two five zero
+zf2_06_172.wav,184364,good afternoon lufthansa five five zero four descend flight level two five zero on radar heading of two five five
+zf2_06_154.wav,126764,delta foxtrot sierra climb flight level three three zero st prex
+zf2_06_049.wav,122156,lufthansa four four zero eight climb flight level three three zero
+zf2_06_191.wav,111788,golf juliett india descend level two nine zero rate two thousand or more
+zf2_06_142.wav,34604,air malta four
+zf2_06_040.wav,114092,lufthansa five three zero five own navigation tango
+zf2_06_014.wav,99116,lufthansa five three zero five heading three five zero
+zf2_06_064.wav,153260,lufthansa four four zero eight contact geneva one three three one five bye bye
+zf2_06_150.wav,94508,cross air five one eight climb flight level three zero zero
+zf2_06_131.wav,103724,delta foxtrot sierra climb flight level three one zero
+zf2_06_026.wav,138284,lufthansa four three nine zero contact milan one three four five two bye
+zf2_06_118.wav,141740,cross air five one eight good afternoon radar contact i'll call you back with further climb
+zf2_06_192.wav,96812,airfrans six eight zero descend flight level three one zero
+zf2_06_016.wav,193580,that's correct german air force four one four further climb clearance contact ah radar one three three decimal four bye bye
+zf2_01_136.wav,123308,lufthansa triple five zero turn right heading of ah two seven zero
+zf2_01_105.wav,85292,gulf air zero three two heading zero nine zero
+zf2_01_048.wav,173996,good morning aero lloyd five six zero radar contact maintain flight level three three zero your heading
+zf2_01_253.wav,129068,lufthansa four six five two contact geneva one three three one five bye bye
+zf2_01_051.wav,65708,roger one three four five two
+zf2_01_134.wav,89900,u s air one four descend flight level three one zero
+zf2_01_110.wav,118700,foxtrot sierra india direct canne descend flight level two five zero
+zf2_01_209.wav,10412,roger
+zf2_01_210.wav,84140,india yankee juliett descend flight level two five zero
+zf2_01_091.wav,142892,hamburg air two five four six contact geneva one three three one five bye bye
+zf2_01_072.wav,116396,hapag lloyd six five three good morning radar contact call you back with climb
+zf2_01_275.wav,87596,turkish nine two five turn left for hochwald
+zf2_01_212.wav,89900,yeah just kill him because we can't see him on the radar anyhow
+zf2_01_123.wav,130220,airfrans three five six radar contact i'll call you back with further climb
+zf2_01_205.wav,92204,airfrans six seven three four direct zurich east fusse
+zf2_01_092.wav,188972,lufthansa correction airfrans one five five four descend now flight level two nine zero
+zf2_01_157.wav,123308,lufthansa four three nine three contact now milan one three four five two
+zf2_01_267.wav,168236,jetaviation seven zero one good morning radar contact descend flight level three one zero
+zf2_01_108.wav,26540,thank you
+zf2_01_088.wav,226988,gulf air zero three two good morning radar contact maintain flight level three three zero i'll call you back with direct
+zf2_01_176.wav,99116,airfrans three five six climb flight level three one zero
+zf2_01_059.wav,177452,good morning lufthansa triple five zero maintain flight level two eight zero squawk two seven five seven
+zf2_01_254.wav,61100,lufthansa four six five two
+zf2_01_102.wav,145196,aviva nine zero eight one roger radar contact i'll call you back with further descent
+zf2_01_031.wav,190124,and ah could you take the mike just a bit ah big further from your mouth you're really really loud
+zf2_07_200.wav,130220,lufthansa four four one six climb flight level three one zero initially
+zf2_01_285.wav,165932,hamburg air two five zero zero good morning radar contact maintain two nine zero trasadingen st prex
+zf2_07_033.wav,78380,aero lloyd five six zero direct st prex
+zf2_07_025.wav,154412,good afternoon blue five seven two radar contact turn right heading of one seven zero
+zf2_07_032.wav,186668,air berlin five zero eight one good afternoon radar contact maintain flight level three three zero direct st prex
+zf2_07_115.wav,81836,roger contact milan one three four five two bye
+zf2_07_053.wav,148652,t w a eight eight one contact now milan one three four five two bye
+zf2_07_177.wav,88748,lufthansa four six five two direct st prex
+zf2_07_205.wav,138284,alitalia four zero one contact milan one three four five two ciao
+zf2_07_044.wav,129068,good afternoon lufthansa triple five zero squawk two seven five seven
+zf2_07_150.wav,127916,roger aviva nine zero eight one further contact milan one three four five two bye
+zf2_07_165.wav,134828,alitalia one one seven contact milan one three four five two bye
+zf2_07_103.wav,119852,roger speedway three four six nine your rate of descent at least two thousand
+zf2_07_152.wav,147500,l t u seven seven five six contact geneva one three three one five bye bye
+zf2_07_023.wav,162476,emirates eight one good ah afternoon radar contact ah confirm three four zero
+zf2_07_222.wav,127916,lauda six eight six nine contact milan one three four five two bye
+zf2_07_130.wav,106028,sabena eight two six alfa radar contact direct karlsruhe
+zf2_07_117.wav,92204,jet set four four two descend flight level two five zero
+zf2_07_061.wav,112940,lufthansa eight two six eight continue climb flight level three four zero
+zf2_07_188.wav,109484,alitalia four eight five descend flight level two five zero
+zf2_07_049.wav,111788,blue five seven two also milan one three four five two bye
+zf3_01_049.wav,18476,correct
+zf3_01_205.wav,88748,two nine one correct descend to flight level two five zero
+zf2_07_223.wav,163628,bonjour sabena ohh we're finished thank you very much for correction bye
+zf3_01_002.wav,184364,delta india hotel echo bravo zurich radar good morning identified route trasadingen st prex maintain flight level two nine zero
+zf3_01_164.wav,89900,india oscar kilo milan one three four five two ciao
+zf3_01_209.wav,172844,lufthansa four two two three good morning identified route trasadingen zurich east fusse maintain flight level three three zero
+zf3_01_044.wav,140588,negative iberia three five three zero descend to flight level two nine zero
+zf3_01_053.wav,115244,french line nine one six three fly heading zero nine five until advised
+zf3_01_054.wav,50732,nine one six three correct
+zf3_01_086.wav,145196,lufthansa four four zero eight contact now geneva one three three decimal one five bye bye
+zf3_01_201.wav,177452,aerovic one zero six one turn immediately right heading ah two one five
+zf3_01_167.wav,199340,aerovic one zero six one zurich radar good morning identified maintain flight level three four zero and continue present heading until advised
+zf3_01_070.wav,156716,japanair four one nine descend to flight level two five zero to cross canne at level
+zf3_01_035.wav,17324,roger
+zf3_01_046.wav,225836,okay airfrans one five zero nine keep a rate of one thousand three hundred feet or more please due to opposite traffic
+zf3_01_145.wav,96812,alitalia four one six climb to flight level three one zero
+zf3_01_233.wav,245420,air algerie two zero seven three good morning identified route trasadingen st prex maintain flight level three zero zero
+zf3_01_176.wav,93356,delta mike echo continue climb to flight level three seven zero
+zf3_01_020.wav,34604,station calling
+zf3_01_163.wav,107180,delta fox sierra geneva one three three decimal one five bye bye
+zf3_01_089.wav,152108,alitalia six four seven four contact rhein one two zero decimal nine two bye bye
+zf3_01_138.wav,171692,okay keep at least thirteen hundred feet until reaching three three zero due to opposite traffic
+zf3_01_120.wav,162476,air malta four five zero identified route ageri zurich east nelli maintain flight level three two zero
+zf3_01_106.wav,17324,roger
+zf3_01_061.wav,173996,airfrans one five zero nine own navigation to hochwald and call zurich sector one three four six bye bye
+zf3_01_235.wav,137132,any other level is occupied as well i'm sorry maintain three hundred final level
+zf3_02_074.wav,88748,three six zero four correct climb to flight level three four zero
+zf3_02_008.wav,135980,lufthansa five three zero five correct call zurich sector one three three decimal four bye bye
+zf3_02_060.wav,57644,one three four four correct yes
+zf3_02_073.wav,84140,negative further left heading left one six zero
+zf3_02_103.wav,207404,lufthansa three five five zero zurich radar good afternoon identified route trasadingen saronno maintain flight level two nine zero
+zf3_02_153.wav,250028,israeli air force four four two zurich radar good afternoon identified maintain flight level three four zero albix saronno
+zf3_02_176.wav,131372,merair six nine four four climb to flight level three zero zero initially
+zf3_02_154.wav,142892,sabena eight zero six zurich radar good afternoon squawk two seven four one
+zf3_02_047.wav,64556,speedway three three five two zurich
+zf3_02_084.wav,300716,india lima oscar oscar kilo zurich radar good afternoon you're identified route trasadingen saronno maintain flight level two nine zero call you back for further climb
+zf3_02_063.wav,131372,three five six six correct for further climb zurich sector one three three decimal four bye bye
+zf3_02_148.wav,153260,merair six nine five two climb initially to flight level three zero zero
+zf3_02_052.wav,87596,l t u one six zero two climb to flight level two nine zero
+zf3_02_099.wav,86444,india oscar kilo climb to flight level three three zero
+zf3_02_178.wav,126764,israeli four four two descend to flight level two nine zero
+zf3_02_041.wav,122156,airfrans zero zero nine november what is your position
+zf3_02_120.wav,108332,alitalia four one six own navigation to zurich east
+zf3_02_166.wav,82988,delta mike echo further left by ten degrees
+zf3_02_033.wav,200492,tarom seven five three four zurich radar good afternoon identified trasadingen zurich east fusse maintain flight level three three zero
+zf3_02_190.wav,233900,air algerie two zero seven three zurich radar good afternoon confirm on heading south
+zf3_03_175.wav,31148,good morning
+zf3_02_054.wav,135980,french line nine one six three as well milan one three four decimal five two bye bye
+zf3_03_036.wav,91052,speedway three three five two descend to flight level two nine zero
+zf3_03_092.wav,107180,alitalia four zero four good morning squawk seven five three two
+zf3_03_170.wav,84140,lufthansa three five zero eight zurich radar good morning
+zf3_03_026.wav,185516,alitalia one five zero identified route trasadingen karlsruhe i'll call you back for further climb stand by
+zf3_03_037.wav,100268,alitalia one five zero climb to flight level three one zero
+zf3_03_010.wav,122156,lufthansa four seven zero three zurich radar good morning i'll call you back for descent
+zf3_03_021.wav,199340,airfrans two six two one zurich radar good morning squawk now two seven seven three
+zf3_03_075.wav,129068,one five zero correct call now rhein control one two zero nine two bye bye
+zf3_03_025.wav,124460,speedway three three five two good morning identified call you back for lower
+zf3_03_168.wav,198188,lufthansa four two two three zurich radar good morning identified trasadingen zurich east fusse maintain flight level three three zero
+zf3_03_101.wav,94508,alitalia four one six climb to flight level three one zero
+zf3_03_162.wav,112940,aerovic one zero six one descend to flight level two five zero
+zf3_03_051.wav,86444,alitalia one five zero set course to zurich east
+zf3_03_182.wav,101420,israeli air force four four two milan one three four five two
+zf3_03_016.wav,93356,lufthansa four four zero eight own navigation st prex
+zf3_03_147.wav,104876,lufthansa four six six five descend to flight level two nine zero
+zf3_03_099.wav,114092,emirates zero two four milan one three four decimal five two bye bye
+zf1_07_128.wav,91052,roger due traffic turn right heading zero six five
+zf1_07_183.wav,223532,lufthansa five five zero four contact geneva one ah disregard descend to flight level two five zero
+zf1_07_085.wav,137132,lufthansa three six zero four for further climb zurich one three three four tschuss
+zf1_07_058.wav,159020,reach six zero one five three good afternoon maintain level three two zero on present heading
+zf1_07_106.wav,114092,alitalia four one six good afternoon squawk seven five three three
+zf1_07_209.wav,126764,futura four hundred good afternoon route trasadingen tango
+zf1_07_041.wav,106028,k l m three four six rhein one two zero nine two bye bye
+zf1_07_019.wav,202796,air berlin five two five five contact ah rhein on one two zero nine two good bye
+zf1_07_060.wav,114092,alitalia one five eight contact reims one three four decimal four good bye
+zf1_07_014.wav,108332,iberia three five three zero descend to flight level three two zero
+zf1_07_211.wav,127916,air algerie two zero seven three for further climb zurich one three three four good bye
+zf1_07_054.wav,121004,alitalia one five zero good afternoon squawk two seven four five
+zf1_07_180.wav,108332,golf juliett india contact milan one three four five two good bye
+zf1_07_148.wav,108332,airfrans six seven zero descend to flight level two five zero
+zf1_07_115.wav,70316,roger maintain level two nine zero
+zf1_07_017.wav,133676,hamburg air two five zero two contact geneva one three three one five good bye
+zf1_07_189.wav,127916,good afternoon israeli air force four four two maintain level three five zero
+zf1_07_152.wav,129068,and golf juliett india good afternoon descend to flight level three three zero
+zf1_07_126.wav,124460,sata nine six zero one good afternoon squawk two seven six four
+zf1_03_104.wav,118700,foxtrot sierra india contact milan one three four five two good bye
+zf1_03_080.wav,131372,hapag lloyd one seven one good morning climb to flight level three three zero
+zf1_03_195.wav,110636,alitalia four eight five good morning roger
+zf1_03_087.wav,62252,negative right zero one zero
+zf1_03_149.wav,104876,europa three eight one rate two thousand five hundred or more
+zf1_03_130.wav,82988,and four eight eight own navigation to tango now
+zf1_03_033.wav,91052,aero lloyd five six zero turn right to st prex
+zf1_03_036.wav,114092,lufthansa five three one eight milan one three four five two good bye
+zf1_03_245.wav,124460,speedbird seven seven whiskey whiskey reims one three four decimal four good bye
+zf1_03_003.wav,132524,french air force four two three four good morning squawk two seven six five
+zf1_03_128.wav,100268,yeah after trasadingen heading zero nine zero to kempten
+zf1_03_042.wav,134828,lufthansa triple five zero is identified climb to level two nine zero
+zf1_03_197.wav,101420,alitalia four eight five descend to flight level three three zero
+zf1_03_076.wav,138284,sabena seven eight one six contact rhein one two zero decimal nine two good bye
+zf1_03_198.wav,103724,alitalia four eight five descend to flight level three three zero
+zf1_03_217.wav,89900,europa three six one continue present heading
+zf1_03_254.wav,115244,jetaviation seven zero one milan one three four five two good bye
+zf1_03_139.wav,91052,transwede one zero seven own navigation to st prex
+zf1_03_224.wav,148652,hapag lloyd ah sorry lufthansa four four one six continue present heading
+zf1_03_179.wav,99116,alitalia four zero one turn left heading one seven zero
+zf1_03_066.wav,35756,yeah that will do
+zf1_03_013.wav,118700,air malta zero zero four good morning squawk two seven three five
+zf1_03_032.wav,115244,fox oscar kilo sierra india good morning radar contact
+zf1_03_112.wav,116396,condor one zero four for further climb zurich one three three four tschuss
+zf1_03_078.wav,107180,condor one zero four good morning squawk seven five three one
+zf1_08_091.wav,94508,aero lloyd five one seven set course direct to frankfurt
+zf1_08_057.wav,95660,lufthansa triple five zero own navigation to st prex
+zf1_08_059.wav,84140,swissair six five five two good morning roger
+zf1_08_156.wav,101420,adria one six four two reims one three four four good bye
+zf1_08_143.wav,76076,contact milan one three four five two good bye
+zf1_08_107.wav,78380,u s air one four own navigation to fusse
+zf1_08_131.wav,184364,good morning lufthansa four five seven five radar contact climb to flight level three one zero
+zf1_08_121.wav,109484,lufthansa four six five two good morning fly heading two one zero
+zf1_08_030.wav,130220,air inter three two zero papa hotel good morning squawk two seven one two
+zf1_08_036.wav,99116,lufthansa three five seven seven turn right to zurich east
+zf1_08_002.wav,131372,aero lloyd five six zero good morning maintain three three zero trasadingen st prex
+zf1_08_075.wav,114092,airfrans one five five four descend to flight level two nine zero
+zf1_08_153.wav,88748,roger contact milan one three four five two good bye
+zf1_08_023.wav,115244,lufthansa triple five zero good morning squawk two seven five seven
+zf1_08_192.wav,85292,lauda six eight six nine good morning roger
+zf1_08_139.wav,103724,india fox golf good morning squawk two seven four four
+zf1_02_121.wav,34604,okay kill him
+zf1_08_063.wav,94508,swissair six five five two expect higher in two minutes
+zf1_08_012.wav,112940,stand by air malta zero zero four turn right heading zero three zero
+zf1_08_011.wav,131372,air berlin five zero eight one good morning maintain level three three zero
+zf1_02_017.wav,32300,ah station calling
+zf1_02_096.wav,78380,viva nine zero eight one good afternoon roger
+zf1_02_072.wav,101420,foxtrot sierra india milan one three four five two good bye
+zf1_02_071.wav,106028,lufthansa triple five zero milan one three four five two good bye
+zf1_02_114.wav,99116,jet set four four two descend to flight level two five zero
+zf1_02_191.wav,104876,jetaviation seven zero one descend to flight level two five zero
+zf1_02_129.wav,112940,lufthansa four six five two guten tag roger
+zf1_02_151.wav,112940,lufthansa four six five two own navigation to st prex
+zf1_02_185.wav,237356,ah november ah hamburg air two five zero zero good afternoon maintain level three hundred trasadingen st prex
+zf1_02_171.wav,119852,netherlands four one four descend to flight level two seven zero
+zf1_02_088.wav,132524,swissair four eight eight confirm in climb to two eight zero
+zf1_02_094.wav,116396,sabena eight two six alfa good afternoon squawk seven five three one
+zf1_02_142.wav,87596,lufthansa four five seven five good afternoon roger
+zf1_02_057.wav,68012,airfrans ah disregard
+zf1_02_110.wav,101420,u s air one four descend to flight level three zero zero
+zf1_02_005.wav,116396,blue five seven two good afternoon descend to flight level two nine zero
+zf1_02_196.wav,208556,lufthansa four three seven six good afternoon maintain level two nine zero direct to st prex
+zf1_02_082.wav,142892,air inter three two zero papa hotel contact reims one three four decimal four good bye
+zf1_05_208.wav,116396,lufthansa four six five two geneva one three three one five good bye
+zf1_05_109.wav,31148,ah say again
+zf1_05_236.wav,133676,speedbird seven seven whiskey whiskey is identified fly heading two five zero
+zf1_05_209.wav,29996,station calling
+zf1_05_098.wav,18476,thank you
+zf1_05_246.wav,122156,lauda six eight six nine good morning maintain level three five zero when reaching
+zf1_05_091.wav,170540,airfrans one five five four good morning descend to flight level three three zero rate two thousand or more
+zf1_05_134.wav,109484,swissair four eight eight climb to flight level three one zero
+zf1_05_120.wav,109484,lufthansa four three nine three descend to flight level three zero zero
+zf1_05_238.wav,124460,roger india fox golf climb to flight level three six zero thanks for cooperation
+zf1_05_036.wav,167084,jetcom ah one three three good afternoon i'll call you back for higher in three minutes
+zf1_05_123.wav,99116,swissair four eight eight climb to flight level three zero zero
+zf1_05_106.wav,95660,fox sierra india descend to flight level two five zero
+zf1_05_223.wav,131372,lufthansa four five seven five ah rhein one three two decimal four good bye
+zf1_05_194.wav,129068,adria one six four two contact ah reims one three four decimal four good bye
+zf1_05_237.wav,87596,india fox golf could you accept level three six zero
+zf1_05_175.wav,96812,lufthansa four six five two turn right heading two one zero
+zf1_05_027.wav,130220,okay make it heading ah two one two zero five
+zf1_05_271.wav,114092,hapag lloyd three five five one milan one three four five two good bye
+zf1_05_019.wav,133676,french air force four two three four contact reims one three four four good bye
+zf1_05_050.wav,81836,hamburg air two five four six report your mach number
+zf1_05_167.wav,103724,air malta one hundred good morning squawk five seven one seven
+zf1_05_029.wav,87596,lufthansa three five seven seven is identified
+zf1_05_200.wav,92204,iberia three four two two own navigation to nelli
+zf1_05_069.wav,107180,jetcom one three three expect higher in about ah three minutes
+zf1_05_023.wav,182060,lufthansa eight two six eight good morning i'll call you back for climb for the time cleared trasadingen st prex
+zf1_05_090.wav,157868,swissair six five five two stop climb level two seven zero will be final level due traffic
+zf1_04_023.wav,162476,lufthansa four three five six is identified climb to flight level three two zero
+zf1_04_015.wav,147500,t w a eight eight one contact milan one three four five two good bye
+zf1_04_064.wav,192428,airfrans one five five four due traffic turn ah disregard descend to flight level three three zero
+zf1_04_162.wav,192428,lufthansa four four one six good afternoon maintain level three hundred
+zf1_04_073.wav,107180,airfrans three two six one climb to flight level two nine zero
+zf1_04_126.wav,109484,jet set four four two milan one three four five two good bye
+zf1_04_074.wav,121004,swissair six five five two stop climb level two seven zero
+zf1_04_072.wav,121004,air inter three two zero papa hotel set course direct to morok
+zf1_04_030.wav,142892,jetcom one three three good afternoon climb to flight level three four zero
+zf1_04_081.wav,179756,speedway three four six nine descend now to flight level two seven zero rate ah fifteen hundred or more
+zf1_04_040.wav,147500,air inter three two zero papa h hotel good afternoon squawk two seven one two
+zf1_04_093.wav,114092,foxtrot sierra india contact milan one three four five two good bye
+zf1_04_013.wav,155564,lufthansa four seven two three good morning descend to flight level two nine zero
+zf1_04_141.wav,294956,lufthansa four six five two good morning call you back shortly for climb ah proceed correction turn right heading two one zero
+zf1_04_107.wav,117548,viva nine zero eight one descend now to flight level three three zero
+zf1_04_007.wav,85292,blue five seven two good afternoon roger
+zf1_04_183.wav,102572,lauda six eight six nine resume own navigation to fusse
+zf1_01_107.wav,93356,jetcom one three three own navigation to fusse
+zf1_04_076.wav,106028,condor one zero four good afternoon squawk seven five three one
+zf1_01_172.wav,152108,alitalia one one seven descend to flight level two five zero milan one three four five two good bye
+zf1_01_073.wav,115244,swissair six five five two good morning climb to flight level two eight zero
+zf1_01_225.wav,89900,jetaviation seven zero one own navigation to st prex
+zf1_01_090.wav,64556,roger squawk seven five three six
+zf1_01_065.wav,130220,lufthansa four seven two three milan one three four decimal five two good bye
+zf1_01_115.wav,72620,milan one three four five two good bye
+zf1_01_210.wav,84140,alitalia one zero one own navigation to canne
+zf1_01_116.wav,109484,condor one zero four zurich one three three decimal four good bye
+zf1_01_049.wav,125612,airfrans three two six one due traffic descend to flight level two seven zero
+zf1_01_044.wav,69164,yeah okay change back to previous
+zf1_01_117.wav,79532,airfrans three five six turn left to hochwald
+zf1_01_021.wav,183212,lufthansa eight two six eight good morning maintain level two nine zero willisau st prex
+zf1_01_099.wav,127916,air inter three two zero papa hotel contact reims one three four four good bye
+zf1_01_005.wav,112940,transavia three eight one turn left heading one seven zero
+zf1_01_054.wav,111788,lufthansa four seven two three descend to flight level two nine zero
+zf1_01_111.wav,56492,saudia three four one good morning
+zf1_01_071.wav,125612,germania five four zero own navigation to st prex
+zf1_01_227.wav,153260,delta seven six good morning left heading one zero zero descend to flight level two nine zero
+zf1_01_164.wav,85292,alitalia four zero one good morning roger
+zf1_01_129.wav,124460,ah foxtrot oscar lima own navigation ah to fusse
+zf1_01_221.wav,108332,turkair nine two five set course direct to morok
+zf1_01_076.wav,116396,condor one zero four good morning squawk seven five three one
+zf1_01_233.wav,156716,turkish nine two five ah reims one three four decimal four good bye
+zf1_06_030.wav,68012,jetcom one three three good morning roger
+zf1_06_092.wav,117548,speedway three four six nine stop descent level three hundred
+zf1_06_048.wav,115244,roger maintain level three three zero trasadingen zurich east to fusse
+zf1_06_076.wav,57644,lufthansa four seven two three
+zf1_06_007.wav,118700,airfrans three two six one good morning squawk two seven two four
+zf1_06_097.wav,119852,lufthansa four three nine three milan one three four five two good bye
+zf1_06_067.wav,108332,swissair six five five two good morning stop climb level two seven zero
+zf1_06_110.wav,91052,l t u seven seven five six i'll call you back shortly
+zf1_06_072.wav,95660,fox sierra india descend to flight level two five zero
+zf1_06_085.wav,156716,lufthansa triple five zero milan one three four ah stand by
+zf1_06_005.wav,130220,jet set two zero seven ah turn left direct to hochwald
+zf1_06_046.wav,111788,jetcom one three three ah disregard
+zf1_06_038.wav,94508,airfrans three two six one own navigation to st prex
+sm4_03_063.wav,197036,tag lufthansa three five five zero identified climb flight level two nine zero
+sm4_03_004.wav,111788,lufthansa four four zero eight climb flight level two nine zero
+sm4_03_107.wav,123308,adria one six two seven contact rhein one three two four tschuss
+sm4_03_186.wav,186668,lufthansa four five eight two climb to flight level two seven zero
+sm4_03_077.wav,139436,tag delta india mike echo identified climb flight level two seven zero
+sm4_03_168.wav,84140,tag lufthansa three three three zero identified
+sm4_03_145.wav,127916,lufthansa five two one seven contact rhein one three two four tschuss
+sm4_03_120.wav,145196,tag delta charlie india november alfa identified climb flight level two seven zero
+sm4_03_178.wav,112940,aero lloyd five six two to hochwald thereafter st prex
+sm4_03_184.wav,108332,delta echo charlie direct to d dinkelsbuhl
+sm4_03_087.wav,92204,lufthansa five five zero four inbound to trasadingen
+sm4_03_116.wav,125612,lufthansa five five zero four zurich one three four six tschuss
+sm4_03_022.wav,193580,airals one zero eight eight contact rhein one two seven three seven tschuss
+sm4_03_056.wav,159020,lufthansa four seven zero zero contact zurich one three four six tschuss
+sm4_03_138.wav,115244,roger turn right heading one nine zero
+sm4_03_012.wav,140588,tag lufthansa three five six six identified climb flight level two nine zero
+sm4_03_058.wav,108332,k l m three four six proceed direct nattenheim
+sm4_03_139.wav,115244,lufthansa five two one seven proceed direct to dinkelsbuhl
+sm4_03_133.wav,103724,gulf air five rhein one two seven three seven tschuss
+sm4_05_024.wav,108332,foxtrot sierra india climb now flight level two nine zero tschu
+sm4_05_001.wav,63404,tag transwede one oh one identified
+sm4_05_030.wav,70316,tag aero lloyd five two eight identified
+sm4_05_142.wav,34604,how is it now
+sm4_05_183.wav,70316,alitalia one four nine direct trasadingen
+sm4_05_029.wav,88748,constellation two two five one guten tag identified
+sm4_05_163.wav,95660,tag alitalia one four nine identified
+sm4_05_077.wav,74924,sabena seven eight one six report your heading
+sm4_05_151.wav,36908,that's fine
+sm4_05_071.wav,124460,transwede one zero seven climb with fifteen hundred feet per minute or more
+sm4_05_097.wav,145196,sabena eight three two contact rhein one two seven three seven tschuss
+sm4_05_018.wav,117548,tag hapag lloyd six five three identified climb flight level two seven zero
+sm4_05_041.wav,92204,and hapag lloyd six five three zurich one three four six
+sm4_05_022.wav,135980,swissair nine three five two contact rhein one two seven three seven tschuss
+sm4_05_112.wav,137132,onur air three eight eight contact rhein one three two four tschuss
+sm4_05_166.wav,115244,lufthansa three five five six direct to trasadingen
+sm4_05_159.wav,152108,hapag lloyd three five five one zurich one three three decimal four tschuss
+sm4_05_103.wav,135980,and five eight five contact rhein one two seven three seven tschuss
+sm4_05_013.wav,86444,tag swissair six five two zero identified
+sm4_06_074.wav,79532,roger turn right heading one nine five
+sm4_06_030.wav,86444,tag britannia three two seven alfa identified
+sm4_06_110.wav,82988,delta mike echo continue heading one eight zero
+sm4_06_132.wav,127916,tarom three seven four contact rhein one three two four tschuss
+sm4_06_075.wav,81836,golf juliett india direct to trasadingen
+sm4_06_127.wav,96812,alitalia one five zero direct to nattenheim
+sm4_06_019.wav,132524,lufthansa three five six six guten tag identified climb flight level two nine zero
+sm4_06_089.wav,129068,indialook contact rhein frequenc correction zurich one three four six
+sm4_06_155.wav,125612,lufthansa five two one seven contact rhein one three two decimal four tschuss
+sm4_06_023.wav,148652,alitalia two seven four contact rhein frequency one two seven three seven tschuss
+sm4_06_134.wav,78380,tag alitalia one three five identified
+sm4_06_010.wav,160172,sobelair two five two one contact rhein frequency one three two decimal four tschuss
+sm4_06_012.wav,141740,lufthansa four four zero eight contact zurich one three four six tschuss
+sm4_06_044.wav,88748,tag golf bravo victor juliett india identified
+sm4_01_138.wav,103724,tarom three seven four rhein one three two decimal four
+sm4_06_129.wav,141740,alitalia one five zero contact rhein one two seven three seven tschuss
+sm4_01_062.wav,130220,lufthansa five two three six rhein one two seven three seven tschuss
+sm4_01_171.wav,78380,tag lufthansa four five eight two identified
+sm4_01_078.wav,107180,roger for separation turn right heading one nine zero
+sm4_01_021.wav,131372,yeah it's one zero eight eight contact rhein one two seven three seven tschuss
+sm4_01_080.wav,131372,lima alfa juliett one just confirm inbound to kempten kilo papa tango
+sm4_01_065.wav,133676,lufthansa four seven zero zero zurich one three four six tschuss
+sm4_01_127.wav,78380,tag sunwing five two one four identified as well
+sm4_01_052.wav,126764,lufthansa three six zero four zurich one three four decimal six
+sm4_01_027.wav,86444,tag alitalia six four seven four identified
+sm4_01_082.wav,107180,lufthansa four two zero nine rhein one three two four tschuss
+sm4_01_128.wav,109484,alitalia one five zero rhein one two seven three seven tschuss
+sm4_01_133.wav,152108,merair six nine four four climb now flight level three one zero one thousand five hundred or more
+sm4_01_088.wav,132524,roger to stay clear of r v s m traffic turn right heading three four zero
+sm4_01_032.wav,95660,tag lufthansa four seven zero zero identified
+sm4_01_147.wav,94508,delta india bravo echo charlie guten tag identified
+sm4_01_073.wav,33452,roger
+sm4_01_059.wav,72620,november tango mike
+sm4_01_074.wav,124460,hotel tango romeo contact rhein one two seven three seven tschuss
+sm4_01_050.wav,130220,lufthansa four two zero seven direct to dinkelsbuhl delta kilo bravo
+sm4_02_075.wav,20780,roger
+sm4_02_070.wav,112940,sabena eight three zero correction eight three six identified
+sm4_02_059.wav,111788,speedbird one two nine contact rhein one three two four tschuss
+sm4_02_061.wav,133676,k l m three four six proceed now direct to nattenheim november tango mike
+sm4_02_062.wav,121004,k l m three four six contact rhein one two seven three seven tschuss
+sm4_02_098.wav,76076,alitalia two nine one report your heading
+sm4_02_194.wav,111788,lufthansa four five eight two climb flight level two nine zero
+sm4_02_142.wav,94508,delta india mike mike echo climb flight level two nine zero
+sm4_02_116.wav,126764,roger merair six nine five two climb with fifteen hundred feet per minute or more
+sm4_02_014.wav,74924,tag sabena eight three zero identified
+sm4_02_103.wav,138284,sabena three zero two contact rhein one two seven three seven tschuss
+sm4_02_050.wav,66860,golf juliett india report your heading
+sm4_02_058.wav,74924,tag saudia one zero six identified
+sm4_02_018.wav,139436,lufthansa three five six six direct trasadingen climb flight level two nine zero
+sm4_02_148.wav,255788,meridiana co correction merair six nine four four ah climb to flight level three three zero rate of climb one thousand five hundred or more
+sm4_02_118.wav,132524,tag merair six nine four four identified climb to flight level two five zero
+sm4_02_056.wav,148652,lufthansa five two three six contact rhein one two seven three seven tschu
+sm4_04_038.wav,124460,india sierra alfa contact rhein one two seven three seven tschuss
+sm4_02_019.wav,144044,berlin five two five five rhein one two seven three seven tschu
+sm4_02_060.wav,123308,lufthansa four seven zero zero zurich one three four six tschuss
+sm4_04_133.wav,94508,singa one one two continue now heading three one zero
+sm4_04_067.wav,103724,and transwede one oh seven expect higher in about two and a half minutes
+sm4_04_149.wav,86444,tag sabena nine three six nine identified
+sm4_04_006.wav,137132,lufthansa eight two six eight climb flight level two nine zero
+sm4_04_186.wav,147500,midland seven two zero contact rhein one two seven three seven tschuss
+sm4_04_003.wav,27692,roger
+sm4_04_144.wav,65708,aero lloyd five one seven report your heading
+sm4_04_151.wav,81836,sabena eight two six alfa guten tag identified
+sm4_04_140.wav,72620,tag europa three six three identified
+sm4_04_023.wav,125612,lufthansa eight two six eight climb flight level three one zero now
+sm4_04_162.wav,154412,aero lloyd five one seven proceed direct to frankfurt
+sm4_04_089.wav,74924,tag belstar five two six hotel identified
+sm4_04_154.wav,207404,lufthansa three five five six climb with one thousand five hundred feet per minute or more proceed now direct to trasadingen
+sm4_04_203.wav,63404,tag condor two one eight identified
+sm4_04_094.wav,65708,tag alitalia four zero one identified
+sm4_04_045.wav,86444,hapag lloyd six five three rate of climb on convenience
+sm4_04_035.wav,137132,lufthansa eight two six eight contact zurich one three four six tschuss
+sm4_04_208.wav,153260,hallo alitalia four one three identified maintain two five zero upon reaching
+sm4_04_173.wav,106028,midland seven two zero climb now flight level three four zero
+sm4_04_179.wav,54188,speedbird two two three
+sm4_04_039.wav,132524,hapag lloyd six five three you're cleared the traffic climb now flight level three five zero
+gm2_02_163.wav,139436,alitalia two six two contact reims one three two decimal two seven au revoir
+gm2_02_082.wav,103724,cross air two six nine zero bonjour squawk ident
+gm2_02_186.wav,82988,alitalia three one seven do you request three three zero
+gm2_02_202.wav,139436,alitalia three six five descend to flight level two seven zero
+gm2_02_182.wav,212012,lufthansa four six five two bonjour identified cleared passeiry la tour du pin flight level three zero zero stand by for higher
+gm2_02_039.wav,142892,saudia one five five bonjour squawk five seven four three
+gm2_02_073.wav,123308,alitalia three hundred contact paris one three three decimal eight two au revoir
+gm2_02_064.wav,192428,aero lloyd five six zero bonjour identified cleared passeiry bilsa flight level three three zero
+gm2_02_041.wav,68012,sabena nine seven zero report heading
+gm2_02_212.wav,55340,you can kill airfrans six four zero
+gm2_02_136.wav,101420,hamburg air two five four six resume own navigation to la tour du pin
+gm2_02_135.wav,77228,hapag lloyd one seven one cleared direct bilsa
+gm2_02_069.wav,109484,alitalia two three four climb to flight level three two zero
+gm2_02_019.wav,91052,alitalia three hundred bonjour stand by
+gm2_02_198.wav,103724,alitalia three one seven continue climb to flight level three three zero
+gm2_02_192.wav,167084,alitalia three seven zero identified cleared aosta st prex dijon flight level three two zero
+gm2_02_008.wav,88748,berlin five three three eight recleared direct arbos
+gm2_02_133.wav,97964,hapag lloyd one seven one climb to flight level three three zero
+gm2_02_075.wav,152108,cotam one one four one contact zurich ah one three four decimal six au revoir
+gm2_01_104.wav,124460,l t u seven seven five six climb to flight level three four zero
+gm2_01_149.wav,111788,iberia three four seven three climb to flight level three three zero
+gm2_01_015.wav,115244,aero lloyd five one seven descend to flight level three one zero due traffic
+gm2_01_028.wav,54188,roger continue present heading
+gm2_01_107.wav,200492,seven nine five nine bonjour identified cleared passeiry la tour du pin flight level three zero zero
+gm2_01_001.wav,146348,berlin five three three eight contact reims one three four decimal four au revoir
+gm2_01_150.wav,221228,aero lloyd five three zero bonjour identified cleared passeiry bilsa flight level three four zero
+gm2_01_156.wav,147500,lufthansa four six five two contact marseille one two five decimal eight five
+gm2_01_064.wav,115244,alitalia two three four climb to flight level three two zero
+gm2_01_041.wav,170540,portugal four one one three bonjour identified maintain flight level three two zero st prex willisau
+gm2_01_008.wav,138284,alitalia three hundred contact paris one three three decimal eight two au revoir
+sm1_04_046.wav,150956,leisure six zero two four contact rhein one two seven decimal three seven
+sm1_04_030.wav,84140,constellation two two five one rhein radar identified
+sm1_04_141.wav,107180,midland seven two zero set course to nattenheim
+sm1_04_075.wav,93356,alitalia four eight five rhein radar identified
+sm1_04_028.wav,88748,foxtrot sierra india set course to trasadingen
+sm1_04_152.wav,47276,roger call you back for reclearance
+sm1_04_070.wav,87596,sabena eight three two rhein radar identified
+sm1_04_004.wav,145196,lufthansa eight two six eight rhein radar identified climb flight level two nine zero
+sm1_04_050.wav,133676,georgia air zero three seven contact rhein one two seven decimal three seven
+sm1_04_156.wav,119852,lufthansa three six three eight climb flight level three one zero
+sm1_04_038.wav,117548,k l m three hundred kilo rhein radar identified
+sm1_04_144.wav,130220,alitalia one five seven rhein radar identified
+sm1_04_021.wav,133676,hapag lloyd six five three rhein radar identified climb flight level two seven zero
+sm1_04_099.wav,138284,lufthansa four six five two contact zurich one three four decimal six
+sm1_04_155.wav,140588,britannia two three six alfa contact rhein one three two decimal four
+sm1_04_074.wav,140588,lufthansa four six five two rhein radar identified climb flight level two nine zero
+sm1_03_155.wav,92204,sabena eight zero one right turn to trasadingen
+sm1_04_065.wav,118700,air malta zero zero four turn right by one five degrees
+sm1_03_082.wav,130220,sabena seven eight one six rhein radar one two seven decimal three seven
+sm1_03_075.wav,92204,alitalia four eight five do you read
+sm1_03_080.wav,92204,sabena seven eight one six left turn to nattenheim
+sm1_03_158.wav,126764,sabena nine three six nine contact zurich one three four decimal six
+sm1_03_059.wav,178604,air malta zero zero four descend to flight level three two zero rate fifteen hundred or more
+sm1_03_069.wav,100268,sabena seven eight one six turn left by ten degrees
+sm1_03_056.wav,97964,aero lloyd five nine zero rhein radar identified
+sm1_03_054.wav,177452,k l m three hundred kilo contact rhein one two seven decimal three seven good bye
+sm1_03_017.wav,202796,negative hotel oscar charlie hotel oscar charlie thereafter sierra papa romeo
+sm1_03_149.wav,99116,alitalia four six five rhein radar identified
+sm1_03_070.wav,139436,lufthansa four six five two climb flight level three one zero
+sm1_03_147.wav,216620,alitalia four one three rhein radar identified climb flight level two five zero confirm requested level
+sm1_03_053.wav,91052,sabena eight three two rhein radar identified
+sm1_03_099.wav,171692,alitalia four eight five contact zurich one three three decimal four
+sm1_03_084.wav,184364,german air force five eight five direct to frankfurt contact rhein radar one two seven decimal three seven
+sm1_05_084.wav,124460,jet set one four two nine contact rhein one two seven decimal three seven
+sm1_05_052.wav,146348,german air force five eight five this is rhein control rhein radar you're identified
+sm1_05_075.wav,119852,k l m three hundred kilo rhein radar one two seven decimal three seven
+sm1_05_072.wav,164780,alitalia four eight five ah rhein radar you're identified
+sm1_05_047.wav,135980,swissair six five two zero contact rhein one two seven decimal three seven
+sm1_05_051.wav,92204,german air force five eight five rhein radar do you read
+sm1_05_037.wav,133676,hapag lloyd six five three contact zurich one three four decimal six
+sm1_05_140.wav,41516,station calling say again
+sm1_05_094.wav,170540,lufthansa four four one six rhein radar identified left by ten degrees call you back for higher
+sm1_05_024.wav,127916,sabena eight three eight contact rhein one two seven decimal three seven
+sm1_05_120.wav,202796,oscar hotel india rhein radar identified ah confirm on course to karlsruhe
+sm1_05_060.wav,57644,roger identified
+sm1_05_048.wav,146348,air malta zero zero four for separation turn right by ten degrees
+sm1_05_063.wav,109484,air malta zero zero four turn further right by ten degrees
+sm1_05_127.wav,236204,speedbird ah one two f four contact rhein one two seven three seven
+sm1_05_125.wav,77228,lufthansa three five five six are you calling
+sm1_05_165.wav,103724,speedbird one two two rhein radar one two seven three seven
+sm1_06_125.wav,41516,station calling say again
+sm1_06_011.wav,156716,onur air nine eight nine turn ten degrees right and climb flight level three three zero
+sm1_06_074.wav,114092,netherlands three five rhein radar identified
+sm1_06_079.wav,31148,ciao
+sm1_06_045.wav,125612,german air five eight five confirm ah north of trasadingen at flight level two six zero
+sm1_06_142.wav,129068,alitalia four one three rhein radar identified climb flight level two five zero
+sm1_06_058.wav,104876,sabena eight three two contact rhein one two seven three seven
+sm1_06_077.wav,126764,alitalia four eight five contact zurich one three three decimal four
+sm1_06_046.wav,59948,roger identified
+sm1_06_083.wav,133676,negative negative lufthansa four four one six maintain your heading
+sm1_06_105.wav,121004,europa three six three rhein identified proceed direct frankfurt
+sm1_06_093.wav,111788,sabena seven eight one six rhein one two seven three seven
+sm1_06_110.wav,87596,midland seven two zero rhein radar identified
+sm1_06_026.wav,101420,air malta zero zero four proceed direct to frankfurt
+sm1_06_054.wav,61100,alitalia one one seven rhein
+sm1_06_090.wav,88748,p s a five two six hotel rhein radar do you read
+sm1_02_114.wav,131372,p s a five zero two hotel contact rhein one three two decimal four
+sm1_02_028.wav,108332,air malta zero zero four rhein radar identified
+sm1_02_129.wav,100268,speedbird one two two rhein radar identified
+sm1_02_072.wav,182060,k l m two six four turn right make a right turn heading zero one zero
+sm1_02_068.wav,93356,p s a five two six hotel rhein radar identified
+sm1_02_050.wav,133676,k l m three hundred kilo contact rhein one two seven three seven
+sm1_02_076.wav,140588,alitalia one zero one climb flight level three one zero
+sm1_02_048.wav,148652,aero lloyd five nine zero rhein identified climb flight level two nine zero
+sm1_02_031.wav,12716,yeah
+sm1_02_082.wav,108332,britannia triple two alfa rhein radar identified
+sm1_02_092.wav,156716,alitalia four zero one for possible higher contact zurich one three four decimal six
+sm1_02_066.wav,116396,aero lloyd five nine zero climb flight level three one zero
+sm1_02_026.wav,150956,leisure six zero two four contact rhein one two seven decimal three seven
+sm1_02_043.wav,150956,georgia air zero three seven rhein radar one two seven three seven
+sm1_02_006.wav,156716,hapag lloyd six five three climb flight level three one zero report rate of climb
+sm1_02_033.wav,156716,swissair six five two zero contact rhein one two seven decimal three seven
+sm1_02_062.wav,93356,delta india charlie papa alfa rhein radar identified
+sm1_07_054.wav,132524,constellation two two five one contact rhein one three two decimal four
+sm1_07_094.wav,109484,k l m two six four contact rhein one two seven three seven
+sm1_07_015.wav,125612,swissair six five two zero rhein radar identified
+sm1_07_020.wav,140588,sabena four eight one descend flight level two nine zero rate fifteen hundred or more
+sm1_07_089.wav,210860,netherlands air force four one four descend flight level three two zero expedite descent as crossing traffic
+sm1_07_160.wav,147500,sabena eight zero one climb flight level three four zero
+sm1_07_003.wav,95660,speedbird one five six direct to nattenheim
+sm1_07_145.wav,167084,negative speedbird two three three contact rhein one two seven three seven
+sm1_07_093.wav,94508,p s a five zero two hotel rhein radar identified
+sm1_07_085.wav,165932,german air force five eight five contact rhein on one two seven decimal three seven good bye
+sm1_07_035.wav,97964,olympic one four four rhein radar identified
+sm1_07_040.wav,118700,hapag lloyd six five three contact zurich one three four decimal six
+sm1_07_067.wav,89900,sabena eight three two guten tag identified
+sm1_07_045.wav,99116,alitalia one one seven rhein radar identified
+sm1_07_143.wav,148652,lufthansa four three seven six rhein radar identified climb flight level two nine zero
+sm1_07_002.wav,133676,transavia three eight one zurich radar one three four decimal six
+sm1_01_047.wav,127916,india sierra alfa contact rhein one two seven three seven
+sm1_01_149.wav,94508,condor two one eight rhein radar identified
+sm1_01_051.wav,147500,constellation two two five one contact rhein one three two decimal four
+sm1_01_158.wav,131372,britannia two three six alfa zurich one three three decimal four
+sm1_01_126.wav,125612,alitalia four eight seven contact zurich one three four decimal six
+sm1_01_012.wav,232748,lufthansa eight two six eight rhein identified set course trasadingen climb flight level two seven zero
+sm1_01_159.wav,124460,alitalia one four nine zurich one three four decimal six
+sm1_01_055.wav,127916,sobelair two five five seven turn left heading one one zero separation
+sm1_01_091.wav,156716,sabena seven eight one six rhein one two seven three seven
+sm1_01_063.wav,144044,sabena seven eight one six rhein radar identified
+sm1_01_013.wav,123308,sabena eight three eight rhein identified direct to gotil
+sm1_01_022.wav,292652,hapag lloyd six five three rhein identified climb flight level two seven zero
+sm1_01_097.wav,106028,lufthansa four four one six climb flight level two nine zero
+sm1_01_121.wav,122156,lufthansa three five five six climb flight level two nine zero
+sm1_01_101.wav,187820,p s a five two six hotel contact rhein one ah three two decimal four
+sm1_01_082.wav,231596,alitalia four zero one ah rhein identified climb flight level two seven zero
+sm3_05_128.wav,149804,britannia three zero six alfa call milano on one three four five two
+sm3_05_086.wav,127916,gulf air zero zero five good afternoon radar contact
+sm3_05_160.wav,133676,alitalia three six nine proceed to trasadingen
+sm3_05_103.wav,186668,delta november alfa good afternoon climb to flight level two nine zero
+sm3_05_155.wav,154412,lufthansa three five zero eight climb to flight level three one zero
+sm3_05_056.wav,154412,lufthansa four two zero nine now turn to delta kilo bravo
+sm3_05_020.wav,134828,britannia three two seven alfa proceed direct to kempten
+sm3_05_029.wav,192428,sabena eight three zero contact rhein one two seven three seven good day
+sm3_05_125.wav,220076,algerie two zero seven three proceed direct to trasadingen and continue climb to level two seven zero
+sm3_05_109.wav,133676,sunwing five two one two good afternoon radar contact
+sm3_05_164.wav,138284,aero lloyd five six two call zurich one three four six good day
+sm3_05_139.wav,168236,alitalia three six nine descend to flight level two nine zero
+sm3_05_168.wav,112940,good afternoon sabena eight zero six radar contact
+sm3_05_016.wav,121004,k l m three six four turn left ten degrees
+sm3_05_131.wav,187820,merair six nine four four contact zurich on one three four six good day
+sm3_05_006.wav,145196,k l m three four six good afternoon radar contact
+sm3_04_046.wav,106028,onur nine eight nine radar contact
+sm3_04_004.wav,119852,swissair nine three five two good morning radar contact
+sm3_04_143.wav,197036,finnair four two two you were sent us the wrong frequency call us on one two seven three seven
+sm3_04_070.wav,141740,transwede one zero seven call zurich on one three four six
+sm3_04_103.wav,145196,sabena seven eight one six rhein one two seven three seven good day
+sm3_04_058.wav,148652,georgia zero three seven rhein radar one two seven three seven good day
+sm3_04_136.wav,235052,midland seven two zero radar contact climb to flight level three five zero
+sm3_04_078.wav,116396,k l m two six four turn left one five degrees
+sm3_04_115.wav,177452,alitalia four eight five call zurich on one three three four good day
+sm3_04_133.wav,168236,alitalia two nine two good morning radar contact
+sm3_04_109.wav,185516,alitalia four eight seven good morning radar contact
+sm3_04_030.wav,103724,fox sierra india climb to level two nine zero
+sm3_04_081.wav,111788,belstar five two six hotel radar contact
+sm3_04_098.wav,64556,four one four read you five
+sm3_04_097.wav,125612,netherlands air force four one four climb to level three three zero
+sm3_04_106.wav,150956,belstar five two six hotel call rhein on one three two decimal four
+sm3_01_067.wav,165932,jet set eight one seven call rhein on one two seven three seven good day
+sm3_01_023.wav,169388,swissair nine three five two call rhein on one two seven three seven good day
+sm3_01_165.wav,48428,alitalia one five
+sm3_01_119.wav,118700,oscar oscar papa hotel india radar contact
+sm3_01_100.wav,115244,lufthansa four six five two zurich one three four six
+sm3_01_106.wav,130220,belstar five zero two hotel good morning you're in radar contact
+sm3_01_131.wav,122156,lufthansa three five five six direct to trasadingen
+sm3_01_041.wav,101420,olympic one four four in radar contact
+sm3_01_115.wav,114092,turkair five one five in radar contact
+sm3_01_005.wav,102572,transwede one zero one radar contact
+sm3_01_104.wav,124460,and britannia triple two alfa set course for kempten
+sm3_01_094.wav,131372,aero lloyd five nine zero call zurich on one three four six
+sm3_01_130.wav,236204,britannia two two six alfa radar con correction two three six alfa radar contact
+sm3_01_159.wav,195884,britannia two three six alfa call zurich on one three three decimal four good day
+sm3_01_049.wav,142892,good afternoon viva five eight five in radar contact
+sm3_01_141.wav,28844,tschuss
+sm3_03_096.wav,19628,lu
+sm3_01_081.wav,317996,viva five eight five roger is copied descend to flight level two eight zero and ah proceed now direct to warburg whiskey romeo bravo
+sm3_03_027.wav,200492,lufthansa eight two six eight call zurich radar on one three four decimal six good day
+sm3_03_019.wav,243116,lufthansa eight two six eight climb to flight level three three zero on heading one eight zero
+sm3_03_038.wav,97964,alitalia one one seven radar contact
+sm3_03_004.wav,134828,and lufthansa eight two six eight maintain your heading
+sm3_03_085.wav,99116,hapag lloyd three five five one radar contact
+sm3_03_050.wav,147500,sabena seven eight one six in radar contact
+sm3_03_111.wav,93356,alitalia two nine two radar contact
+sm3_03_138.wav,99116,condor two one eight radar contact
+sm3_03_066.wav,142892,k l m three hundred kilo call rhein one two seven three seven
+sm3_03_095.wav,107180,speedbird one two four radar contact
+sm3_03_083.wav,188972,lufthansa four four one six is in radar contact turn left ten degrees
+sm3_03_072.wav,195884,alitalia four zero one climb to flight level two nine zero
+sm3_03_109.wav,130220,britannia triple two alfa call rhein one three two four
+sm3_03_135.wav,176300,lufthansa three five five six call zurich on one three four six
+sm3_02_075.wav,160172,jet set one four two nine contact rhein one two seven three seven good day
+sm3_02_092.wav,155564,k l m two six four call rhein one two seven three seven good day
+sm3_02_126.wav,115244,sabena nine three six nine good morning radar contact
+sm3_02_045.wav,85292,hapag lloyd six five three rhein
+sm3_02_063.wav,198188,netherlands air force four one four roger fly heading one seven zero
+sm3_02_142.wav,56492,roger i'll call you back
+sm3_02_042.wav,112940,olympic one four four now proceed direct to kempten
+sm3_02_029.wav,132524,ah good morning olympic one four four in radar contact
+sm3_02_147.wav,145196,britannia two three six alfa turn right to trasadingen
+sm3_02_130.wav,133676,alitalia two nine two turn left by ten degrees
+sm3_02_089.wav,262700,sierra alfa fox one one two good morning in radar contact and ah roger on non r v s m
+sm3_02_032.wav,149804,malaysian two call rhein on one two seven three seven good day
+sm3_02_087.wav,201644,aero lloyd five nine zero contact zurich on one three four decimal six
+sm3_02_146.wav,168236,lufthansa three five five six call zurich on one three four decimal six
+LZIB_STEFANIK_Tower_118_3MHz_20210503_131815.wav,278828,delta bravo bravo line up runway three one report ready for departure delta bravo bravo lining up runway three one we are ready for departure roger
+LKPR_RUZYNE_Radar_120_520MHz_20201026_114352.wav,283436,oscar kilo papa romeo mike turn right heading zero six zero zero six zero right turn oscar papa romeo mike
+sm3_02_025.wav,144044,transwede one oh one call zurich on one three three four good day
+LSZB_BERN_Tower_121_0MHz_20210414_132458.wav,138284,tango three one eight roger you can already change frequency have a nice day
+LSZB_BERN_Tower_121_0MHz_20210424_082145.wav,127916,hotel kilo delta echo roger traffic is now overhead whiskey one
+LKTB_BRNO_Tower_119_605MHz_20201027_122331.wav,162476,affirm alfa zero one eight one seven oscar flight planned golf suspended direct descending beline six
+LSZB_BERN_Tower_121_0MHz_20210422_140356.wav,178604,hotel bravo zulu sierra november current tower enter via route hotel whiskey q n h one zero one eight
+LSZB_BERN_Approach_127_3MHz_20210414_160756.wav,220076,bravo juliett whiskey wind zero three zero degrees one zero knots runway three two cleared for takeoff
+LSZB_BERN_Tower_121_0MHz_20210425_084853.wav,186668,hotel charlie papa below flight level one hundred hotel charlie papa frequency change approved push greater
+LSZB_BERN_Approach_127_3MHz_20210415_152428.wav,107180,oscar oscar charlie kilo descend to five thousand feet q n h one zero two one
+LSGS_SION_Ground_Control_121_7MHz_20210503_155852.wav,127916,we have the traffic in sight number two delta papa roger
+LSZB_BERN_Tower_121_0MHz_20210413_110527.wav,162476,portugal one four left direct sovar hotel golf papa frequency change approved
+LKPR_RUZYNE_Radar_120_520MHz_20201026_205056.wav,241964,k l m seven three whiskey maintain present heading for vectoring for i l s approach runway two four and reduce your speed now below two six zero knots
+LKPR_RUZYNE_Radar_120_520MHz_20201028_095055.wav,254636,lufthansa nine tango papa contact praha radar one two zero decimal two seven five bye bye lufthansa nine victor papa two zero two seven five five
+LZIB_STEFANIK_Tower_118_3MHz_20210430_104342.wav,123308,stefanik tower good day austrian one four one v l m i l s three one
+LSGS_SION_Tower_118_3MHz_20210421_082534.wav,88748,hotel bravo whiskey zulu hotel tower report
+LSGS_SION_Ground_Control_121_7MHz_20210502_122439.wav,254636,global jet echo x ray wind two five zero degrees one eight knots runway two five cleared touch and go
+LSZH_ZURICH_Tower_118_1MHz_20210414_144013.wav,149804,tango kilo alfa wind zero four zero degrees one one zero knots on one one zero cleared for takeoff
+YSSY_SYDNEY_Tower_120_5MHz_20210502_040816.wav,123308,tunisair koanda six forty two one six forty three any chance good night
+LSZH_ZURICH_Tower_118_1MHz_20210414_112740.wav,288044,royalair maroc three five two contact i one one two one decimal eight five five good bye one two one decimal eight five five good bye
+LSGS_SION_Ground_Control_121_7MHz_20210422_061925.wav,141740,pee jay zulu roger report golf completed eight echo zulu
+LSZB_BERN_Approach_127_3MHz_20210418_152915.wav,146348,route november lima for the time being remain on this frequency
+LKTB_BRNO_Approach-Radar_127_350MHz_20201028_132938.wav,259244,gruess gott tango charlie roger oscar kilo kilo kilo whiskey information mike q n h one zero one six two four charlie arrival
+LSZH_ZURICH_Tower_118_1MHz_20210413_040538.wav,159020,swiss two eight nine the wind three two zero degrees three knots runway one four you are cleared to land
+LSGS_SION_Ground_Control_121_7MHz_20210502_052351.wav,178604,runway one two five call you passing one three thousand feet five two four zero
+YSSY_SYDNEY_Tower_120_5MHz_20210502_235050.wav,299564,tower beeline seven seven three good morning vietnam seven seven three heavy sea jet good morning continue approach threshold wind two seven zero degrees seven knots
+LKTB_BRNO_Approach-Radar_127_350MHz_20201027_095221.wav,238508,oscar kilo bravo alfa lima after ebuka descend to three thousand feet cleared r n p approach runway two seven report established
+LSZH_ZURICH_Tower_118_1MHz_20210414_162532.wav,162476,four air nostrum seven eight juliett mike zero two zero degrees one two one
+YSSY_SYDNEY_Tower_120_5MHz_20210505_203052.wav,178604,tower american seven three approaching agen runway one six right eight i l s
+LSZH_ZURICH_Tower_118_1MHz_20210414_161146.wav,199340,hold two bravo charlie lima hotel via eight line up and wait runway one zero
+LZIB_STEFANIK_Tower_118_3MHz_20210505_225241.wav,103724,twinjet three nine zero four taxi via delta to apron charlie
+LSZH_ZURICH_Tower_118_1MHz_20210414_112539.wav,238508,qatari zero two mike on taxiway juliett cross runway one one zero contract type one one two one decimal seven five five good bye
+LSZH_ZURICH_ApronS_121_75MHz_20210414_160214.wav,149804,fraction four nine eight alfa position the be crossing traffic i call you back
+LSGS_SION_Ground_Control_121_7MHz_20210421_083624.wav,91052,hotel alfa papa you may is the frequency bye bye
+LSZB_BERN_Tower_121_0MHz_20210413_132952.wav,215468,thank you break break contact golf oscar helicopter on your right hand side we will cross behind you it is now golf oscar
+LKPR_RUZYNE_Radar_120_520MHz_20201029_151332.wav,270764,oscar kilo mike charlie charlie praha radar and you are identified flight level seven zero after baltu proceed to blagnac short
+LZIB_STEFANIK_Tower_118_3MHz_20210426_203652.wav,207404,holding point runway three one we are foxtrot and cross runway zero four eurotrans one correction one three juliett thank you
+YSSY_SYDNEY_Tower_120_5MHz_20210429_013422.wav,183212,tunisair good morning this seven forty six established quality six ruzyne tower
+LSZH_ZURICH_ApronS_121_75MHz_20210414_095157.wav,175148,k l m nine four foxtrot on echo seven hold short of runway one six
+LSGS_SION_Tower_118_3MHz_20210505_133612.wav,111788,one two four decimal two two five bair nine five one good bye
+LSGS_SION_Tower_118_3MHz_20210503_130423.wav,241964,hotel golf bravo is echo two at three thousand three hundred feet golf bravo straight in two five number one number one foxtrot golf
+LSGS_SION_Ground_Control_121_7MHz_20210502_063447.wav,233900,hotel echo x ray wind two six juliett nine knots runway two five cleared for touch and go swiftair seven aneto five hotel echo x ray
