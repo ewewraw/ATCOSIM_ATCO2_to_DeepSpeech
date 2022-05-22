@@ -73,3 +73,5 @@ RUN rm -rf kenlm && \
 WORKDIR /DeepSpeech
 
 RUN ./bin/run-ldc93s1.sh
+
+RUN cd / & git clone https://github.com/ewewraw/ATCOSIM_ATCO2_to_DeepSpeech.git
