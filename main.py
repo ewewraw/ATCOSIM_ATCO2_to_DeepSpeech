@@ -9,6 +9,7 @@ import re
 import wave
 import contextlib
 import ASR
+import wav2vec
 # Press Shift+F10 to execute it or replace it with your code.
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
@@ -161,13 +162,15 @@ def split_data_set():
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print('hehe')
+    wav2vec.fine_tune();
+
     # wav_to_mp3()
     # delete_wav_from_filename_in_csv()
     # split_data_set()
     # ASR.calculate_WER()
     # ASR.evaluate_recognized()
     # ASR.plotDFT()
-    ASR.plotFremeworksWerMean()
+    # ASR.plotFremeworksWerMean()
 
     # with open(tsvFile, 'wt') as out_file: # processing ATCOSIM data
     #     tsv_writer = csv.writer(out_file, delimiter='\t')
